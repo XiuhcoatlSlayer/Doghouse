@@ -1,4 +1,4 @@
 .git
 node_modules/
-config.js
+config.json
 package-lock.json
