@@ -1,2 +1,4 @@
-config.json
-node_modules
+.git
+node_modules/
+config.js
+package-lock.json
